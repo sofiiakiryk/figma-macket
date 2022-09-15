@@ -31,5 +31,12 @@
   font-size: 40px;
   font-weight: 500;
 }
-.info {
+.buttom {
+  margin-top: 40px;
+  padding: 2px 35px 5px 35px;
+  text-decoration: none;
+  background-color: blueviolet;
+  color: antiquewhite;
+  text-align: center;
+  border-radius: 10px;
 }
